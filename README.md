@@ -1,2 +1,3 @@
 # MyAmazon
 This is my first project | Not an ordinary Amazon clone | includes html ,css, javascript 
+This is fun to make
